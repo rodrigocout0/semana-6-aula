@@ -10,3 +10,6 @@ const produtosDisponiveis = [
 
 // Carrinho de compras como um array de objetos
 let carrinho = [];
+
+
+let produto = prompt("Qual produto você deseja comprar? (Camisa, Calça, Sapato ou Boné)");
