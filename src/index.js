@@ -81,7 +81,3 @@ while (true) {
       alert("Opção inválida.");
   }
 }
-/* acho que esta funcionando, fiquei testando ontem
-e deu certo. tem algumas coisas dentro do código que 
-precisei de ajuda de uns amigos, mas eles me explicaram
-e se você tiver alguma duvida eu te explico. =) */
