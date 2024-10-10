@@ -81,3 +81,4 @@ while (true) {
       alert("Opção inválida.");
   }
 }
+//JS funcionando
